@@ -1,0 +1,39 @@
+1. Download the Installer
+1. Visit the application's official website.
+2. Locate the download link for the installer and click on it.
+3. Save the installer file to your preferred location on your computer.
+
+2. Run the Installer
+1. Navigate to the location where the installer file was saved.
+2. Double-click the installer file to launch it.
+
+3. Accept Terms and Conditions
+1. A window will appear with the application's terms and conditions.
+2. Read the terms and conditions carefully.
+3. Click the checkbox to confirm that you accept the terms and conditions.
+4. Click "Next" to proceed.
+
+4. Choose Installation Type
+1. The installer will prompt you to choose the type of installation:
+   - Local User Installation: This option allows the application to be installed without administrative privileges, accessible only to the current user.
+   - Admin Installation: This option requires administrative privileges and will make the application available to all users on the computer.
+
+5. Local User Installation
+1. Select the "Local User Installation" option.
+2. Click "Next" to proceed.
+3. Choose the destination folder for the installation (e.g., a folder within the user's profile).
+4. Click "Install" to begin the installation process.
+5. Once the installation is complete, click "Finish" to exit the installer.
+
+6. Admin Installation
+1. Select the "Admin Installation" option.
+2. Click "Next" to proceed.
+3. You may be prompted to enter the administrator password. Enter the password and click "OK."
+4. Choose the destination folder for the installation (e.g., C:\Program Files).
+5. Click "Install" to begin the installation process.
+6. Once the installation is complete, click "Finish" to exit the installer.
+
+7. Launch the Application
+1. After installation, find the application shortcut on your desktop or in the start menu.
+2. Double-click the shortcut to launch the application.
+3. Follow any additional on-screen prompts to complete the initial setup.
