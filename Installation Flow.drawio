@@ -1,0 +1,40 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/25.0.2 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="25.0.2">
+  <diagram name="Page-1" id="8Ylj2BEWM-6GctZuDsfd">
+    <mxGraphModel dx="269" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Pj0k1XYFcbbEPWYMPK_K-3" value="SBM Installer" style="swimlane;whiteSpace=wrap;html=1;startSize=20;" vertex="1" parent="1">
+          <mxGeometry x="80" y="80" width="280" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="Pj0k1XYFcbbEPWYMPK_K-4" value="Install Mode via /install argument" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Pj0k1XYFcbbEPWYMPK_K-3">
+          <mxGeometry x="10" y="30" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Pj0k1XYFcbbEPWYMPK_K-5" value="Introduction" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Pj0k1XYFcbbEPWYMPK_K-3">
+          <mxGeometry x="10" y="50" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Pj0k1XYFcbbEPWYMPK_K-6" value="Terms and Conditions" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Pj0k1XYFcbbEPWYMPK_K-3">
+          <mxGeometry x="10" y="70" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Pj0k1XYFcbbEPWYMPK_K-7" value="Choose Installation Type" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Pj0k1XYFcbbEPWYMPK_K-3">
+          <mxGeometry x="10" y="90" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Pj0k1XYFcbbEPWYMPK_K-8" value="IF ADMIN: Request for Credentials" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="Pj0k1XYFcbbEPWYMPK_K-3">
+          <mxGeometry x="10" y="130" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Pj0k1XYFcbbEPWYMPK_K-9" value="IF ADMIN and OK: Install to Program Files" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="Pj0k1XYFcbbEPWYMPK_K-3">
+          <mxGeometry x="10" y="150" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Pj0k1XYFcbbEPWYMPK_K-10" value="IF LOCAL: Install to AppDataLocal" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="Pj0k1XYFcbbEPWYMPK_K-3">
+          <mxGeometry x="10" y="170" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Pj0k1XYFcbbEPWYMPK_K-11" value="Finish Installation, Option to launch immediately" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Pj0k1XYFcbbEPWYMPK_K-3">
+          <mxGeometry x="10" y="190" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Pj0k1XYFcbbEPWYMPK_K-12" value="Ask if will create shortcut" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Pj0k1XYFcbbEPWYMPK_K-3">
+          <mxGeometry x="10" y="110" width="260" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
