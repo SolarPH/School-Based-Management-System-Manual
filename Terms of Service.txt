@@ -1,0 +1,45 @@
+**Terms of Service**
+
+**1. Introduction**
+Welcome to the School-Based Management System, a Windows application designed for organizational use. By accessing or using this application, you agree to comply with and be bound by these Terms of Service.
+
+**2. Definitions**
+- **"We," "Our," "Us"**: Refers to SolarPH and MARCsystems.
+- **"You," "Your," "User"**: Refers to the organization and its authorized members accessing or using the application.
+
+**3. Acceptance of Terms**
+By accessing and using our application, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service. If you do not agree, you must discontinue the use of the application.
+
+**4. User Accounts**
+- Admins must create the accounts for users to access certain features.
+- Users are responsible for maintaining the confidentiality of their account information.
+- Users agree to notify us immediately of any unauthorized use of their account.
+
+**5. License and Restrictions**
+- We grant you a limited, non-exclusive, non-transferable license to use the application.
+- You agree not to:
+  - Modify, distribute, or create derivative works of the application.
+  - Reverse engineer, decompile, or disassemble the application.
+  - Use the application for any unlawful purpose.
+
+**6. Data Privacy**
+We are committed to protecting your privacy. The data managed by our application is hosted on Google's Services. Our use of your data is governed by our Privacy Policy, which you can review [here](https://privacy.microsoft.com/en-us/privacystatement), and by Google's Privacy Policy, which you can review [here](https://policies.google.com/privacy).
+
+**7. Updates and Modifications**
+- We reserve the right to update or modify the application and these Terms of Service at any time.
+- Continued use of the application after changes constitute your acceptance of the new terms.
+
+**8. Termination**
+We reserve the right to suspend or terminate your access to the application if you violate these Terms of Service.
+
+**9. Disclaimer of Warranties**
+The application is provided "as is" without warranties of any kind. We do not guarantee that the application will be error-free or uninterrupted. Any misuse of the application that results in data compromise will not be the responsibility of the developer.
+
+**10. Limitation of Liability**
+We are not liable for any direct, indirect, incidental, special, or consequential damages arising from your use of the application.
+
+**11. Governing Law**
+These Terms of Service are governed by and construed in accordance with the laws of the Philippines. Any disputes arising under these terms shall be subject to the exclusive jurisdiction of the courts of the Philippines.
+
+**12. Contact Information**
+If you have any questions about these Terms of Service, please contact us at [support_email].
