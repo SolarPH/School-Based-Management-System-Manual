@@ -1,0 +1,3 @@
+Sitemap: https://solarph.github.io/School-Based-Management-System-Manual/sitemap.xml
+User-agent: *
+Disallow:
