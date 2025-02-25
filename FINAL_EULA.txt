@@ -1,0 +1,40 @@
+End-User License Agreement (EULA)
+
+1. Introduction
+   - This End-User License Agreement (EULA) is a legal agreement between you (the "User"), your organization, and SolarPH / MARCsystems ("We" or "Us") for the use of the School-Based Management System application (the "Application").
+
+2. Grant of License
+   - We grant you a limited, non-exclusive, non-transferable license to access and use the School-Based Management System application (the "Application") for its intended purposes, subject to the terms and conditions outlined in this EULA.
+    1. Limited: This license is limited in scope, meaning it only allows you to use the Application for specific purposes outlined in this EULA. It does not grant you any ownership rights or permissions beyond what is explicitly stated.
+    2. Non-Exclusive: This license is non-exclusive, meaning we can grant similar licenses to other users. You do not have exclusive rights to use the Application, and other users may also be granted access.
+    3. Non-Transferable: This license is non-transferable, meaning you cannot transfer, assign, or sublicense your rights to use the Application to any other person or entity. The license is granted solely to you and cannot be shared or transferred.
+
+3. User Responsibilities
+   - You agree to comply with the terms outlined in this EULA, including the User Responsibilities and Prohibited Activities sections from the Terms of Service.
+
+4. Prohibited Activities
+   - Users are prohibited from engaging in activities such as unauthorized access, data tampering, malicious activities, privacy violations, illegal activities, abusive behavior, and impersonation, as outlined in the Prohibited Activities section of the Terms of Service.
+
+5. Intellectual Property
+   - The Application, including its software, design, code, and functionalities, is the intellectual property of SolarPH / MARCsystems, and the logo and concept of the Application are the intellectual property of your organization. Users are not permitted to modify, create derivative works, use for commercial purposes, redistribute, reverse engineer, or remove proprietary notices, as outlined in the Intellectual Property section of the Terms of Service.
+
+6. Data Collection and Use
+   - The application primarily collects data related to API usage. No personal user details are collected by the application itself. Relevant user information is stored on the organization's specified Google Drive address. For detailed information on data collection, usage, and sharing, please refer to our Privacy Policy.
+
+7. Data Security
+   - We implement measures to protect your data, as outlined in the Data Storage and Security section of the Privacy Policy. However, we cannot guarantee absolute security, and you use the Application at your own risk.
+
+8. Termination
+   - Your access to the Application may be suspended or terminated for reasons such as violation of terms, illegal or unauthorized use, changes in employment status, security concerns, or at the request of your organization, as outlined in the Termination section of the Terms of Service.
+
+9. Limitation of Liability
+   - We are not liable for any damages arising from the use of the Application, as described in the Limitation of Liability section of the Terms of Service.
+
+10. Governing Law
+   - The distribution and use of the Application shall be governed by the laws of the Philippines, specifically focusing on software distribution and intellectual property. The data supplied to the Application shall be governed by relevant data protection and privacy laws, as outlined in the Governing Law section of the Terms of Service.
+
+11. Changes to the EULA
+   - We reserve the right to update or modify this EULA at any time. Changes may be made to reflect new legal requirements, changes in our practices, or improvements in our services. We encourage you to review this EULA periodically to stay informed about your rights and obligations.
+
+12. Contact Information
+   - If you have any questions or concerns about this EULA, please refer to our Contact Information page.
