@@ -1,37 +1,37 @@
 Terms of Service
 
 1. Introduction
-   - These Terms of Service govern your use of the School-Based Management System application (the "Application") provided by SolarPH / MARCsystems ("We" or "Us"). By using the Application, you agree to comply with these terms and conditions.
+   - These Terms of Service govern your use of the School-Based Management System (the "Application") provided by SolarPH / MARCsystems (the "Developer"). By using the Application, you agree to comply with these terms and conditions. These Terms of Service are exclusive to DepEd Tanauan Chapter (the "Organization") and are not transferable to any other entity or individual.
 
 2. Acceptance of Terms
    - By accessing or using the Application, you agree to be bound by these Terms of Service. If you do not agree to these terms, you may not use the Application.
 
 3. User Responsibilities
-   - Users agree to comply with all applicable laws and regulations when using the School-Based Management System application. Users are responsible for maintaining the confidentiality of their account credentials and for any activities that occur under their account.
+   - Users agree to comply with all applicable laws and regulations when using the School-Based Management System. Users are responsible for maintaining the confidentiality of their account credentials and for any activities that occur under their account.
 
 4. Prohibited Activities
    - Users are prohibited from engaging in activities such as unauthorized access, data tampering, malicious activities, privacy violations, illegal activities, abusive behavior, and impersonation.
 
 5. Intellectual Property
-   - The Application, including its software, design, code, and functionalities, is the intellectual property of SolarPH / MARCsystems, and the logo and concept of the Application are the intellectual property of your organization. Users are not permitted to modify, create derivative works, use for commercial purposes, redistribute, reverse engineer, or remove proprietary notices.
+   - The Application, including its software, design, code, and functionalities, is the intellectual property of the Developer, and the logo and concept of the Application are the intellectual property of your Organization. Users are not permitted to modify, create derivative works, use for commercial purposes, redistribute, reverse engineer, or remove proprietary notices.
 
 6. Data Collection and Use
-   - The application primarily collects data related to API usage. No personal user details are collected by the application itself. Relevant user information is stored on the organization's specified Google Drive address. For detailed information on data collection, usage, and sharing, please refer to our Privacy Policy.
+   - No personal user details are collected by the Application itself. Relevant user information is stored on your Organization's specified Google Drive address. For detailed information on data collection, usage, and sharing, please refer to our Privacy Policy.
 
 7. Data Security
-   - We implement measures to protect your data, as outlined in the Data Storage and Security section of the Privacy Policy. However, we cannot guarantee absolute security, and you use the Application at your own risk.
+   - The Developer implements measures to protect your data, as outlined in the Data Storage and Security section of the Privacy Policy. However, we cannot guarantee absolute security, and you use the Application at your own risk.
 
 8. Termination
-   - Your access to the Application may be suspended or terminated for reasons such as violation of terms, illegal or unauthorized use, changes in employment status, security concerns, or at the request of your organization.
+   - Your access to the Application may be suspended or terminated for reasons such as violation of terms, illegal or unauthorized use, changes in employment status, security concerns, or at the request of your Organization.
 
 9. Limitation of Liability
-   - We are not liable for any damages arising from the use of the Application.
+   - The Developer is not liable for any damages arising from the use of the Application due to improper use.
 
 10. Governing Law
    - The distribution and use of the Application shall be governed by the laws of the Philippines, specifically focusing on software distribution and intellectual property. The data supplied to the Application shall be governed by relevant data protection and privacy laws.
 
 11. Changes to the Terms of Service
-   - We reserve the right to update or modify these Terms of Service at any time. Changes may be made to reflect new legal requirements, changes in our practices, or improvements in our services. We encourage you to review these Terms of Service periodically to stay informed about your rights and obligations.
+   - The Developer reserves the right to update or modify these Terms of Service at any time. Changes may be made to reflect new legal requirements, updates to our practices, or improvements in our services. We encourage you to review these Terms of Service periodically to stay informed about your rights and obligations.
 
 12. Contact Information
    - If you have any questions or concerns about these Terms of Service, please refer to our Contact Information page.
