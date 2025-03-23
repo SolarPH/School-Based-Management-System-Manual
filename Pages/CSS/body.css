@@ -33,5 +33,10 @@ body
 
 .spacer1
 {
-	height: 2em;
+	height: 1vh;
+}
+
+.spacer2
+{
+	height: 0.5vh;
 }
