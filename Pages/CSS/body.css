@@ -26,6 +26,11 @@ body
 	font-size: 0.75vw;
 }
 
+.maintext
+{
+	font-size: 1vw;
+}
+
 .spacer1
 {
 	height: 2em;
