@@ -1,0 +1,36 @@
+.header
+{
+	width: 100vw;
+	box-shadow: 0 2px 5px rgba(0,0,0,1);
+	z-index: 1000;
+}
+
+.header-area
+{
+	width: 100vw;
+}
+
+.header-bg
+{
+	background: linear-gradient(105deg, #F4FFC3 0%, #A9C46C 45%, #809D3C 65%, #5D8736 100%);
+}
+
+.header-image
+{
+	width: 5vw;
+	vertical-align: middle;
+}
+
+.image-area
+{
+	/*border: 1px solid;*/
+}
+
+.text-area
+{
+	font-size: 2.5vw;
+	font-weight: bold;
+	padding-right: 2vw;
+	text-align: right;
+	color: #fff;
+}

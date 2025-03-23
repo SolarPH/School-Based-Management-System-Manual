@@ -1,0 +1,52 @@
+.navbar
+{
+	top: 100px;
+	width: 100%;
+	z-index: 999;
+}
+
+.navbar-bg
+{
+	background: linear-gradient(0deg, #F4FFC3 0%, #A9C46C 100%);
+}
+
+.navbar ul
+{
+	list-style-type: none;
+	display: flex;
+	justify-content: center;
+	margin: 0;
+	padding: 0;
+}
+
+.navbar ul li
+{
+	margin: 0 0.5vw;
+}
+
+.navbar li
+{
+	font-size: 1.25vw;
+}
+
+.active
+{
+	background-color: #A9C46C;
+	color: black;
+	font-weight: bold;
+}
+
+.inactive
+{
+	background-color: #5D8736;
+	color: white;
+	font-weight: normal;
+}
+
+.tab-shape
+{
+	border-radius: 0 0 1em 1em;
+	padding: 1vw 2vw;
+	text-align: center;
+	display: inline-block;
+}
