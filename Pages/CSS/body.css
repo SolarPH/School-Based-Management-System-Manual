@@ -3,6 +3,7 @@ body
 	margin: 0;
 	font-family: 'Lora', sans-serif;
 	background: linear-gradient(180deg, #CAE294 0%, #FBFFE6 100%);
+	background-attachment: fixed;
 	height: 100vh;
 }
 
@@ -18,25 +19,63 @@ body
 
 .heading
 {
-	font-size: 2vw;
+	font-size: clamp(1em, 2vw, 4em);
+	
 }
 
 .subtext
 {
-	font-size: 0.75vw;
+	font-size: clamp(0.5em, 1vw, 2em);
 }
 
 .maintext
 {
-	font-size: 1vw;
+	font-size: clamp(0.5em, 1vw, 2em);
+}
+
+.list-title
+{
+	font-weight: bold;
+	font-size: clamp(1em, 2vw, 4em);
+}
+
+.list-description
+{
+	font-size: clamp(0.5em, 1vw, 2em);
+}
+
+.sidemargin
+{
+	margin-left: 3em;
+	margin-right: 3em;
 }
 
 .spacer1
 {
-	height: 0.2vw;
+	height: 0.4vw;
 }
 
 .spacer2
 {
-	height: 0.1vw;
+	height: 0.2vw;
+}
+
+.spacer3
+{
+	height: 1vw;
+}
+
+.footer
+{
+	height: 5vw;
+}
+
+ul
+{
+	margin: 0;
+}
+
+.indent
+{
+	padding-left: 2em
 }

@@ -22,11 +22,12 @@
 .navbar ul li
 {
 	margin: 0 0.5vw;
+	width: fit-content;
 }
 
 .navbar li
 {
-	font-size: 1.25vw;
+	font-size: clamp(0.75em, 1.5vw, 3em);
 }
 
 .active
@@ -46,7 +47,7 @@
 .tab-shape
 {
 	border-radius: 0 0 1em 1em;
-	padding: 1vw 2vw;
+	padding: 1vw 1vw;
 	text-align: center;
 	display: inline-block;
 }
