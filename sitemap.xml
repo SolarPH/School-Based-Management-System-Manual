@@ -2,55 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://solarph.github.io/School-Based-Management-System-Manual/</loc>
-    <lastmod>2025-02-25</lastmod>
+    <lastmod>2025-03-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://solarph.github.io/School-Based-Management-System-Manual/index.html</loc>
-    <lastmod>2025-02-25</lastmod>
+    <lastmod>2025-03-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://solarph.github.io/School-Based-Management-System-Manual/Pages/HTML/contactus.html</loc>
+    <lastmod>2025-03-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://solarph.github.io/School-Based-Management-System-Manual/SBM_HOMEPAGE.pdf</loc>
-    <lastmod>2025-02-25</lastmod>
+    <loc>https://solarph.github.io/School-Based-Management-System-Manual/Pages/HTML/eula.html</loc>
+    <lastmod>2025-03-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://solarph.github.io/School-Based-Management-System-Manual/SBM_LOGINMANUAL.pdf</loc>
-    <lastmod>2025-02-25</lastmod>
+    <loc>https://solarph.github.io/School-Based-Management-System-Manual/Pages/HTML/privacypolicy.html</loc>
+    <lastmod>2025-03-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://solarph.github.io/School-Based-Management-System-Manual/SBM_PRIVACY.pdf</loc>
-    <lastmod>2025-02-25</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://solarph.github.io/School-Based-Management-System-Manual/SBM_SYSMANUAL.pdf</loc>
-    <lastmod>2025-02-25</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://solarph.github.io/School-Based-Management-System-Manual/SBM_SYSMANUAL_ADMIN.pdf</loc>
-    <lastmod>2025-02-25</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://solarph.github.io/School-Based-Management-System-Manual/SBM_SYSMANUAL_REVIEWER.pdf</loc>
-    <lastmod>2025-02-25</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://solarph.github.io/School-Based-Management-System-Manual/SBM_TOS.pdf</loc>
-    <lastmod>2025-02-25</lastmod>
+    <loc>https://solarph.github.io/School-Based-Management-System-Manual/Pages/HTML/tos.html</loc>
+    <lastmod>2025-03-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
